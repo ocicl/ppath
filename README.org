@@ -2,9 +2,8 @@
 
 Common Lisp's implementation of the Python's os.path module
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/fourier/ppath.git   |
-| commit  | c56b36e  |
-| systems | ppath |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://github.com/fourier/ppath.git |
+| commit  | c56b36e                                  |
+| systems | ppath                                    |
+|---------+------------------------------------------|
