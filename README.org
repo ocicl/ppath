@@ -4,6 +4,6 @@ Common Lisp's implementation of the Python's os.path module
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/fourier/ppath.git |
-| commit  | aaeb36d                                  |
+| commit  | c56b36e                                  |
 | systems | ppath                                    |
 |---------+------------------------------------------|
